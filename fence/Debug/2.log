@@ -1,0 +1,4 @@
+﻿  fence.c
+C:\Users\momnp\source\repos\Project22\2\fence.c(4,1): warning C4005: 'INT_MAX': 매크로 재정의
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\limits.h(36): message : 'INT_MAX'의 이전 정의를 참조하십시오.
+  2.vcxproj -> C:\Users\momnp\source\repos\Project22\Debug\2.exe
