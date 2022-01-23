@@ -1,0 +1,4 @@
+﻿  1260.c
+C:\JiyeYu\knu_01_winter_vacation\study_algorithm\Algorithm-study\YJY\BOJ\0123_algo_boj_exercise02\0123_algo_boj_exercise02\1260.c(24,16): warning C4013: 'check_visited'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\JiyeYu\knu_01_winter_vacation\study_algorithm\Algorithm-study\YJY\BOJ\0123_algo_boj_exercise02\0123_algo_boj_exercise02\1260.c(31,6): error C2371: 'check_visited': 재정의. 기본 형식이 다릅니다.
+C:\JiyeYu\knu_01_winter_vacation\study_algorithm\Algorithm-study\YJY\BOJ\0123_algo_boj_exercise02\0123_algo_boj_exercise02\1260.c(51,15): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?

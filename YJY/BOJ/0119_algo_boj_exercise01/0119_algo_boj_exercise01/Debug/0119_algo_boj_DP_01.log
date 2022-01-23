@@ -1,0 +1,4 @@
+﻿  2630.c
+C:\JiyeYu\knu_01_winter_vacation\study_algorithm\Algorithm-study\YJY\BOJ\0119_algo_boj_DP_01\0119_algo_boj_DP_01\2630.c(26,7): warning C4013: 'visit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\JiyeYu\knu_01_winter_vacation\study_algorithm\Algorithm-study\YJY\BOJ\0119_algo_boj_DP_01\0119_algo_boj_DP_01\2630.c(104): warning C4716: 'visit': 값을 반환해야 합니다.
+  0119_algo_boj_DP_01.vcxproj -> C:\JiyeYu\knu_01_winter_vacation\study_algorithm\Algorithm-study\YJY\BOJ\0119_algo_boj_DP_01\Debug\0119_algo_boj_DP_01.exe
